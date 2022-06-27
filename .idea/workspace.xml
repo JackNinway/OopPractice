@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b803cc-bce7-4947-8f41-4bba4bf3b7fe" name="Changes" comment="bank account basics">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="d6b803cc-bce7-4947-8f41-4bba4bf3b7fe" name="Changes" comment="rectangle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +70,25 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1656327422192</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="bank account basics">
+      <created>1656329089370</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1656329089370</updated>
+    </task>
+    <task id="LOCAL−00003" summary="bank account basics">
+      <created>1656330950122</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1656330950122</updated>
+    </task>
+    <task id="LOCAL−00004" summary="rectangle">
+      <created>1656331093829</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1656331093829</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +104,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bank account basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="bank account basics" />
+    <MESSAGE value="Rectangle" />
+    <MESSAGE value="rectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="rectangle" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -117,6 +133,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/BancAccount.java</url>
           <line>29</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Rectangle.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
