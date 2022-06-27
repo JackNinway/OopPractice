@@ -10,6 +10,6 @@ public class Main {
         customerJN.withdrawAccount(1111);
 
         Car myCar = new Car("NPK 111", "Volvo", "red", 1955, 29);
-        myCar.drive();
+        System.out.println(myCar.drive());
     }
 }
