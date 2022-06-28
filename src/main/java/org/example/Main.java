@@ -7,8 +7,9 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        Author author = new Author();
         Book aBook = new Book();
+
+        Author author = new Author("AA BB",);
 
         ArrayList<Author> author = new ArrayList<Author>();
         author.add("AA BB");
