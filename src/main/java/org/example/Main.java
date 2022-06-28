@@ -1,10 +1,17 @@
 package org.example;
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+
+        Author author = new Author();
+        Book aBook = new Book();
+
+        ArrayList<Author> author = new ArrayList<Author>();
+        author.add("AA BB");
 
         Rectangle myRectangle = new Rectangle();
         Car myCar = new Car("NPK 111", "Volvo", "red", 1955, 29);
